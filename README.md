@@ -1,13 +1,3 @@
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![SPSS](https://img.shields.io/badge/SPSS-red?style=for-the-badge)
-
-![Public Health](https://img.shields.io/badge/Public%20Health-009688?style=for-the-badge)
-
 # Hi, I'm Aishat Temitope Kasali 
 
  Public Health Researcher | Health Data Analyst |  Epidemiologist
