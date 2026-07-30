@@ -102,11 +102,10 @@ BSc Microbiology
 
 ## Connect with Me
 
-- LinkedIn: www.linkedin.com/in/kasaliaishatemitope
-
+- GitHub: [AishaKs18](https://github.com/AishaKs18)
 - ORCID: https://orcid.org/0009-0009-2337-0518
-
-- ResearchGate: https://www.researchgate.net/profile/Aishat-Kasali-2
+- ResearchGate: [Aishat Kasali](https://www.researchgate.net/profile/Aishat-Kasali-2)
+- LinkedIn: [Aishat Temitope Kasali](www.linkedin.com/in/kasaliaishatemitope)
 
 
 
